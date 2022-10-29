@@ -61,7 +61,7 @@ def live_choice():
         print("Invalid Choice!!, Try again")
         sys.exit()
 print("-" * 50)
-print("              Welcome to Port Scanner")
+print("              Welcome to OPORT-Port Scanner")
 print("-" * 50)
 target = socket.gethostbyname(input("Enter an IP address or host name: "))
 print("Select option for preferred scan")
