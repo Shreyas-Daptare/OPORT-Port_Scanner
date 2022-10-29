@@ -3,8 +3,6 @@ import sys
 import socket
 from datetime import datetime
 def banner():
-    # Add Banner
-    # Decoration
     print("-" * 50)
     print("-" * 50)
     print("Scanning Target: " + target)
